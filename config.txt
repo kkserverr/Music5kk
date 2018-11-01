@@ -1,6 +1,6 @@
-token=NDk0NjA2NDg2NzE1MTA1Mjgw.Do1-Kw.rvMYnkMrYB6_d2Hh58lvQiNqht4
-owner=485579083649122304
-prefix=5
-game=Type 5Play | 5Help
+token=NDg0MjM4OTA0NDUxNTMwNzYy.DrvvIA.1Hg4JxtS6lqt3qiBOHTlKcfHrdE
+owner=257804689268146177
+prefix=0
+game=♪Music.ıllı.Mishaery
 stayinchannel=true
 songinstatus=true
